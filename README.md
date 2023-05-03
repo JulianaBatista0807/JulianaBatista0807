@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Juliana Chacon Batista
 
-- ⚙️ Atualmente trabalho com gerência e criação de arte para jogos
-- 💗 Interesse em programação front-end e back-end
-- 📚 Estudando Programação em PYTHON, HTML e CSS
+- ⚙️ Atualmente trabalho com QA / Software Testing
+- 💗 Interesse em  QA, programação front-end e back-end
+- 📚 Estudando Programação em PYTHON, JAVA, C, PHP, Javascript, HTML e CSS
 - 💬 E-mail: julianabatista0807@gmail.com
 
 <div>
