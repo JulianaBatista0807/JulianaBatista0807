@@ -2,13 +2,13 @@
 
 - ⚙️ Atualmente trabalho com QA / Software Testing
 - 💗 Interesse em  QA, programação front-end e back-end
-- 📚 Estudando Programação em PYTHON, JAVA, C, PHP, Javascript, HTML e CSS
+- 📚 Estudando Programação em Javascript, HTML e CSS
 - 💬 E-mail: julianabatista0807@gmail.com
 
 <div>
   
 ### Formação:
-- Em andamento: Bacharelado em Ciência da Computação (UNIPE)
+- Tecnologo Analise e Desenvolvimento de Sistemas (UNIPE)
 - Bacharela em Comunicação em Mídias Digitais (UFPB) 
   
   <div>
@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   
 </div>
