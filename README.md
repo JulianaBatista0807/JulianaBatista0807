@@ -1,55 +1,40 @@
-### Olá! Eu sou a Juliana Chacon Batista
+<h1 align="left">👋 Oi, eu sou a Juliana!</h1>
 
-- ⚙️ Atualmente trabalho com QA / Software Testing
-- 💗 Interesse em  QA, programação front-end e back-end
-- 📚 Estudando Programação em Javascript, HTML e CSS
-- 💬 E-mail: julianabatista0807@gmail.com
+Sou **Quality Assurance Engineer** com foco em **testes manuais e automação** e em evolução constante em **JavaScript** para desenvolvimento front-end e back-end.
 
-<div>
-  
-### Formação:
-- Tecnologo Analise e Desenvolvimento de Sistemas (UNIPE)
-- Bacharela em Comunicação em Mídias Digitais (UFPB) 
-  
-  <div>
+Atualmente estou:
+- Desenvolvendo projetos práticos em **JS / DOM / APIs**
+- Estruturando base para automação com **Cypress / Playwright**
+- Explorando práticas de **Test Design → heurísticas + testes exploratórios**
 
-### Conhecimentos em:
-  
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  
-</div>
- 
-##
- 
-<div> 
-  
-### Contatos: 
+---
 
-  <a href = "mailto:julianabatista0807@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliana-chacon-924557243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+### 🧠 Tech Stack
+**Desenvolvimento**
+`JavaScript` `HTML` `CSS` `Node.js`
 
+**Testes**
+`Postman` `Cypress` `Playwright` `LambdaTest`
 
-<div align="left">
-  <a href="https://github.com/JulianaBatista0807">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaBatista0807&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBatista0807&layout=compact&langs_count=7&theme=aura"/>
-</div>
- 
-<!--  outra forma dos icones de python, html e css
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>  
+**Ambiente**
+`Git & GitHub` `VSCode` `Jira` `Notion`
 
- -->
-  
+---
+
+### 🧩 Projetos Recentes
+
+| Nome | Descrição | Tecnologias |
+|------|-----------|-------------|
+| **To-Do List** | Gerenciamento simples de tarefas com DOM | JS, HTML, CSS |
+| **Jogo da Velha** | Lógica de jogo + manipulação de eventos | JS |
+| **API “O Cuidador”** | Registro de idosos, remédios e rotinas | Node.js, Express |
+
+> *Se quiser, posso adicionar prints + GIFs curtos para destacar os projetos visualmente.*
+
+---
+
+### 📬 Onde me encontrar
+[LinkedIn](https://www.linkedin.com/in/juliana-chacon-924557243/) • **julianabatista0807@gmail.com**
+
+---
 
